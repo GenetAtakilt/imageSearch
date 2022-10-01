@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Search-Bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Search-Bar-Submit {
+  margin-left: 10px;
+}
+
+.Image-Search {
+}
+
+.Images {
+  margin-top: 30px;
+}
+
+img {
+  padding: 5px;
+  max-width: 30%;
+  height: auto;
+}
